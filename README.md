@@ -31,18 +31,11 @@ snake-game-qt/
 |── main.qml             # Interface utilisateur QML
 ```
 
-## 🚀 Comment lancer le projet
-
-### Prérequis
-- Qt 5.15+ ou Qt 6 installé
-- Compilateur C++ (g++, clang ou MSVC)
-- CMake 3.5+
-
 ### Compilation
 1. Clonez le repository :
    ```bash
-   git clone https://github.com/votre-utilisateur/snake-game-qt.git
-   cd snake-game-qt
+   git clone https://github.com/Bilel-BenTaher/Snake-app.git
+   cd snake-app
    ```
 
 2. Créez un dossier build et compilez :
