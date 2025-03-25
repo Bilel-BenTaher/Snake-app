@@ -2,6 +2,7 @@
 
 Un jeu Snake classique implémenté avec Qt Quick (QML) et C++, avec des fonctionnalités modernes.
 
+![Aperçu du jeu](assets/snake_game_screenshot.png)![Deuxième aperçu](assets/snake_game_screenshot1.png)
 
 ## ✨ Fonctionnalités
 
